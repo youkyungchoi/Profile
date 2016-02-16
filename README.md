@@ -28,4 +28,4 @@
 - **[정찬혁](https://github.com/BCSDLab/Profile/blob/master/Chanhyeok.md)** - 컴퓨터공학부 12학번
 - **최선문** - 컴퓨터공학부 14학번
 - **최유경** - 컴퓨터공학부 13학번
-- **최하늘** - 컴퓨터공학부 12학번
+- **[최하늘](https://github.com/BCSDLab/Profile/blob/master/Haneul.md)** - 컴퓨터공학부 12학번
