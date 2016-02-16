@@ -1,9 +1,10 @@
--First Name : DONGWOO
--Last Name : KIM
--Age : 25
--Nationality : Republic of Korea
--University / Major : Korea University of Technology and Education / Computer-science
--E-mail : zxdv2002@gmail.com / zxdv2002@hanmail.net
+#DONGWOO KIM
+ - First Name : DONGWOO
+ - Last Name : KIM
+ - Age : 25
+ - Nationality : Republic of Korea
+ - University / Major : Korea University of Technology and Education / Computer-science
+ - E-mail : zxdv2002@gmail.com / zxdv2002@hanmail.net
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
