@@ -3,4 +3,3 @@
 * Univ : Korea University of Technology and Education
 * Grade : Senior
 * E-mail : hiysr0308@gmail.com
-* Interest Seminar : 4th
