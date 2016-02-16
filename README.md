@@ -25,7 +25,7 @@
 - **[윤성진](https://github.com/BCSDLab/Profile/blob/master/Seongjin.md)** - 컴퓨터공학부 12학번
 - **윤수연** - 전자공학과 13학번
 - **정보혁** - 컴퓨터공학부 13학번
-- **정찬혁** - 컴퓨터공학부 12학번
+- **[정찬혁](https://github.com/BCSDLab/Profile/blob/master/Chanhyeok.md)** - 컴퓨터공학부 12학번
 - **최선문** - 컴퓨터공학부 14학번
 - **최유경** - 컴퓨터공학부 13학번
 - **최하늘** - 컴퓨터공학부 12학번
