@@ -14,6 +14,8 @@
 ######LG Social Campaigner 1기
 ######판교지역 개발자 네트워크 PangyoParty 의장
 ######1인 미디어 창작소 Engineer
+######Team_Abiz (Startup)
+######BCSD Lab Networking
 
 
 ##Internal Activity
@@ -41,6 +43,7 @@
 - [2015.09~] LG Social Campaigner 1기
 - [2015.10~] 판교지역 개발자 네트워크 PangyoParty 창립/의장
 - [2015.12~] 1인 미디어 창작소 Engineer
+- [2016.02~] IT특성화동아리 BCSD Lab 창립/네트워킹 담당
 
 ##Speaker
 - [2015.05.27] 연세대학교 진로 탐색 강연
