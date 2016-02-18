@@ -4,7 +4,7 @@
 한국기술교육대학교 IT특성화동아리 BCSDLab 동아리원 소개 페이지입니다.
 
 ###Founder
-- **김남훈** - 컴퓨터공학부 08학번
+- **[김남훈](https://github.com/BCSDLab/Profile/blob/master/Introduce/NamhoonKim.md)** - 컴퓨터공학부 08학번
 
 ###Executive
 
