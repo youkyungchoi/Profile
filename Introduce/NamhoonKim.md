@@ -13,7 +13,7 @@
 ######미래창조과학부 Software Maestro [6기 연수생]
 ######LG Social Campaigner 1기
 ######판교지역 개발자 네트워크 PangyoParty 의장
-#####1인 미디어 창작소 Engineer
+######1인 미디어 창작소 Engineer
 
 
 ##Internal Activity
@@ -47,6 +47,6 @@
 - [2015.08.22] LG Dream Challenger Remind 강연
 - [2015.10.15] 삼성전자 오픈소스 컨퍼런스 SOSCON Crash Report Speaker
 - [2015.11.07] 컴퓨터공학부 홈커밍데이 강연
-- [2015.11.07] LG Dreacm Challenger 홈커밍데이 강연
+- [2015.11.07] LG Dream Challenger 홈커밍데이 강연
 
 
