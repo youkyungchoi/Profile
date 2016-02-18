@@ -11,11 +11,11 @@
 ######Naver D2 Campus Partner [KoreaTech]
 ######IN-P-NITE 천안 대학생 연합 동아리 [대표]
 ######미래창조과학부 Software Maestro [6기 연수생]
-######LG Social Campaigner 1기
-######판교지역 개발자 네트워크 PangyoParty 의장
-######1인 미디어 창작소 Engineer
-######Team_Abiz (Startup)
-######BCSD Lab Networking
+######LG Social Campaigner [1기]
+######판교지역 개발자 네트워크 PangyoParty [의장]
+######1인 미디어 창작소 [Engineer]
+######Startup Team_Abiz [Android Developer]
+######BCSD Lab [Networking Role]
 
 
 ##Internal Activity
@@ -26,6 +26,7 @@
 - [2013.06~2014.05] 공모전 팀 CodeWriter
 - [2014.03~2014.06] 상담진로개발센터 늘품멘토링 2기
 - [2014.05~2015.06] Intersection 창립자/대표
+- [2016.02~] IT특성화동아리 BCSD Lab 창립/네트워킹 담당
 
 ##External Activity
 - [2011.10~2011.11] 게임물등급위원회 DB구축 인턴
@@ -43,7 +44,6 @@
 - [2015.09~] LG Social Campaigner 1기
 - [2015.10~] 판교지역 개발자 네트워크 PangyoParty 창립/의장
 - [2015.12~] 1인 미디어 창작소 Engineer
-- [2016.02~] IT특성화동아리 BCSD Lab 창립/네트워킹 담당
 
 ##Speaker
 - [2015.05.27] 연세대학교 진로 탐색 강연
