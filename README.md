@@ -9,7 +9,7 @@
 ###Executive
 
 - **회장** : **김진수** - 메카트로닉스공학부 12학번
-- **부회장** : **조은비** - 컴퓨터공학부 13학번
+- **부회장** : **[조은비](https://github.com/BCSDLab/Profile/blob/master/Introduce/eunbeejo.md)** - 컴퓨터공학부 13학번
 - **SW부장** : **[정재현](https://github.com/BCSDLab/Profile/blob/master/Introduce/pathFinder%20:%20JaeHyeunJung)** - 컴퓨터공학부 10학번
 
 ###Member
