@@ -10,7 +10,7 @@
 * Grade : Junior
 
 ##English Proficiency
-* Toeic 812
+* Toeic 815
 * Toefl(IBT) 83
 
 ##Certificate
