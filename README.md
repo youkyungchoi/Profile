@@ -26,7 +26,8 @@
 - **박재우** - 컴퓨터공학부 13학번
 - **박정현** - 컴퓨터공학부 12학번
 - **[박혜림](https://github.com/BCSDLab/Profile/blob/master/Introduce/Hyerim.md)** - 컴퓨터공학부 13학번
-- **서정민** - 컴퓨터공학부 12학번
+- **[서정민](https://github.com/BCSDLab/Profile/blob/master/Introduce/JeongMin.md)** - 컴퓨터공학부 12학번
+
 - **손재락** - 컴퓨터공학부 13학번
 - **윤수연** - 전자공학과 13학번
 - **정보혁** - 컴퓨터공학부 13학번
