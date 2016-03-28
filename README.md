@@ -21,7 +21,7 @@
 - **[김범영](https://github.com/BCSDLab/Profile/blob/master/Introduce/Beomyeong.md)** - 컴퓨터공학부 11학번
 - **[김진](https://github.com/BCSDLab/Profile/blob/master/Introduce/Jin.md)** - 컴퓨터공학부 12학번
 - **라현지** - 컴퓨터공학부 13학번
-- **박동렬** - 전자공학과 15학번
+- **[박동렬](https://github.com/BCSDLab/Profile/blob/master/Introduce/donglul.md)** - 전자공학과 15학번
 - **[박영호](https://github.com/BCSDLab/Profile/blob/master/Introduce/YoungHo.md)** - 컴퓨터공학부 12학번
 - **박재우** - 컴퓨터공학부 13학번
 - **박정현** - 컴퓨터공학부 12학번
