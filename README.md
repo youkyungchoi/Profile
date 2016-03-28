@@ -26,13 +26,15 @@
 - **박재우** - 컴퓨터공학부 13학번
 - **박정현** - 컴퓨터공학부 12학번
 - **[박혜림](https://github.com/BCSDLab/Profile/blob/master/Introduce/Hyerim.md)** - 컴퓨터공학부 13학번
-- **서정민** - 컴퓨터공학부 12학번
+- **[서정민](https://github.com/BCSDLab/Profile/blob/master/Introduce/JeongMin.md)** - 컴퓨터공학부 12학번
 - **손재락** - 컴퓨터공학부 13학번
 - **윤수연** - 전자공학과 13학번
-- **정보혁** - 컴퓨터공학부 13학번
+- **[이주환](https://github.com/BCSDLab/Profile/blob/master/Introduce/juhwan.md)** - 컴퓨터공학부 12학번
+- **[정보혁](https://github.com/BCSDLab/Profile/blob/master/Introduce/bohyuk.md)** - 컴퓨터공학부 13학번
+- **[정성원](https://github.com/BCSDLab/Profile/blob/master/Introduce/seongwon.md)** - 컴퓨터공학부 13학번
 - **정세열** - 컴퓨터공학부 13학번
-- **[정찬혁](https://github.com/BCSDLab/Profile/blob/master/Introduce/Chanhyeok.md)** - 컴퓨터공학부 
+- **[정찬혁](https://github.com/BCSDLab/Profile/blob/master/Introduce/Chanhyeok.md)** - 컴퓨터공학부 12학번
 - **[채규홍](https://github.com/BCSDLab/Profile/blob/master/Introduce/cheagyuhong.md)** - 컴퓨터공학부 11학번
-- **최선문** - 컴퓨터공학부 14학번
+- **[최선문](https://github.com/BCSDLab/Profile/blob/master/Introduce/Seonmun.md)** - 컴퓨터공학부 14학번
 - **최유경** - 컴퓨터공학부 13학번
 - **[최하늘](https://github.com/BCSDLab/Profile/blob/master/Introduce/Haneul.md)** - 컴퓨터공학부 12학번
