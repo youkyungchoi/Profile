@@ -15,11 +15,11 @@
 
 
 ###Member
-- **김대겸** - 컴퓨터공학부 12학번
+- **[김대겸](https://github.com/BCSDLab/Profile/blob/master/Introduce/Daegyeom.md)** - 컴퓨터공학부 12학번
 - **[김동우](https://github.com/BCSDLab/Profile/blob/master/Introduce/Dongwoo.md)** - 컴퓨터공학부 12학번
 - **김민백** - 기계공학부 11학번
 - **[김범영](https://github.com/BCSDLab/Profile/blob/master/Introduce/Beomyeong.md)** - 컴퓨터공학부 11학번
-- **김진** - 컴퓨터공학부 12학번
+- **[김진](https://github.com/BCSDLab/Profile/blob/master/Introduce/Jin.md)** - 컴퓨터공학부 12학번
 - **라현지** - 컴퓨터공학부 13학번
 - **박동렬** - 전자공학과 15학번
 - **[박영호](https://github.com/BCSDLab/Profile/blob/master/Introduce/YoungHo.md)** - 컴퓨터공학부 12학번
