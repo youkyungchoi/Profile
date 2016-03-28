@@ -23,7 +23,7 @@
 - **라현지** - 컴퓨터공학부 13학번
 - **[박동렬](https://github.com/BCSDLab/Profile/blob/master/Introduce/donglul.md)** - 전자공학과 15학번
 - **[박영호](https://github.com/BCSDLab/Profile/blob/master/Introduce/YoungHo.md)** - 컴퓨터공학부 12학번
-- **박재우** - 컴퓨터공학부 13학번
+- **[박재우](https://github.com/BCSDLab/Profile/blob/master/Introduce/ParkJaewoo.md)** - 컴퓨터공학부 13학번
 - **박정현** - 컴퓨터공학부 12학번
 - **[박혜림](https://github.com/BCSDLab/Profile/blob/master/Introduce/Hyerim.md)** - 컴퓨터공학부 13학번
 - **[서정민](https://github.com/BCSDLab/Profile/blob/master/Introduce/JeongMin.md)** - 컴퓨터공학부 12학번
