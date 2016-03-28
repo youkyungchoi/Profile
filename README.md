@@ -29,6 +29,7 @@
 - **서정민** - 컴퓨터공학부 12학번
 - **손재락** - 컴퓨터공학부 13학번
 - **윤수연** - 전자공학과 13학번
+- **[이주환](https://github.com/BCSDLab/Profile/blob/master/Introduce/juhwan.md)** - 컴퓨터공학부 12학번
 - **[정보혁](https://github.com/BCSDLab/Profile/blob/master/Introduce/bohyuk.md)** - 컴퓨터공학부 13학번
 - **[정성원](https://github.com/BCSDLab/Profile/blob/master/Introduce/seongwon.md)** - 컴퓨터공학부 13학번
 - **정세열** - 컴퓨터공학부 13학번
