@@ -17,7 +17,7 @@
 ###Member
 - **[김대겸](https://github.com/BCSDLab/Profile/blob/master/Introduce/Daegyeom.md)** - 컴퓨터공학부 12학번
 - **[김동우](https://github.com/BCSDLab/Profile/blob/master/Introduce/Dongwoo.md)** - 컴퓨터공학부 12학번
-- **[김민백]()** - 기계공학부 11학번
+- **[김민백](https://github.com/BCSDLab/Profile/blob/master/Introduce/MinBaek.md)** - 기계공학부 11학번
 - **[김범영](https://github.com/BCSDLab/Profile/blob/master/Introduce/Beomyeong.md)** - 컴퓨터공학부 11학번
 - **[김진](https://github.com/BCSDLab/Profile/blob/master/Introduce/Jin.md)** - 컴퓨터공학부 12학번
 - **라현지** - 컴퓨터공학부 13학번
