@@ -10,11 +10,12 @@
 * Grade : Junior
 
 ##English Proficiency
-* Toeic 815
-* Toefl(IBT) 83
+* TOEIC 860
+* TOEFL(IBT) 83
+* TOEFL(ITP) 560
 
 ##Certificate
-* Catia Parts Modeling Professional
+* Catia Parts Design Professional [2016.02]
 
 ##Experience
 * 한국장학재단 차세대리더육성멘토링 6기 [2015.04 ~ 2015.11]
